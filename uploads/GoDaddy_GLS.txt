@@ -1,0 +1,17 @@
+
+www.translationserviceonline.com
+
+1. Данные SFTP
+Host Name (Имя хоста):translationserviceonline.com
+Порт:22
+Имя пользователя SFTP:tran41282929864
+Пароль::G90CpzB(#e5n
+
+2. База данных
+Ниже приведена информация вашей учетной записи phpMyAdmin:
+URL-адрес phpMyAdmin:https://n1nlsmysqladm01.secureserver.net/n3wp/24
+Имя пользователя:tran41282929864
+Пароль:P|V.cAEaRo0r
+
+Сайт сервера хостинга:
+https://n1nlsmysqladm01.secureserver.net/n3wp/24/index.php

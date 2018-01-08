@@ -1,0 +1,11 @@
+var formData = new FormData(),
+confirmPayment = document.getElementById('add-file');
+
+       formData.append('action', 'confirmPayment');
+
+       formData.append('file', confirmPayment.files[0], confirmPayment.files[0].name);
+
+       if ( !confirmPayment.files[0].length ) {
+            console.log(formData)
+ console.log('send ajax')
+        }

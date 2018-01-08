@@ -1,0 +1,76 @@
+
+Domain:
+
+
+https://godaddy.com
+
+
+Acc: DD111
+
+Password: 8vxD7od)x3BR4QKt7&
+
+
+
+Old
+
+website:
+
+
+Cpanel:
+https://93.123.73.23:2083/logout/?locale=zh
+
+
+ACC:kowindows
+
+
+Password: UyWq9sa#8yzx9$8s2j
+
+
+
+
+Wordpress:
+https://www.kowindows.com/sign-in/
+
+
+Acc:
+KoSoftwareService
+
+Password: OV9u&H3qvXHXv1QZo6
+
+
+
+
+
+
+
+New VPS:
+
+185.82.202.13:12366
+
+
+Acc:root
+
+Password: Y(9r7b6984k8%t2[3v
+
+
+
+
+Database:
+username： wpkowindows
+
+
+Password: Hs[62Q6)j33283}z3f
+
+
+
+
+mysql: i88k4&px34(@6t9C74
+
+S
+
+ftp：
+
+
+Acc:root
+
+Password: Y(9r7b6984k8%t2[3v
